@@ -1,0 +1,11 @@
+#para{
+    padding: 10px;
+    margin: 50px;
+    background-color: grey;
+  }
+  .navbar-collapse{
+    background-color: grey;
+  }
+  .nav-item{
+    padding-left: 10px;
+  }
